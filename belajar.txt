@@ -1,0 +1,1 @@
+print("sandi,pandu, anak.e pak.e mak.e")
